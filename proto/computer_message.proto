@@ -1,0 +1,12 @@
+syntax ="proto3";
+
+package  computer_message;
+
+message cpu{
+    string brand = 1;
+    string name = 2;
+    uint32 Croes = 3;
+    uint32 threads = 4;
+    float min_ghz = 5;
+    float max_ghz = 6;
+}
