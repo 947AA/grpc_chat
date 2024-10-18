@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "C:\\Code\\grpc_chat"
+        }
+    ],
+    "settings": {
+        "editor.tabSize": 4,
+        "files.exclude": {
+            "**/.git": true,
+            "**/.DS_Store": true
+        },
+        "go.toolsEnvVars": {
+            "GO111MODULE": "on"
+        }  
+    } 
+}
