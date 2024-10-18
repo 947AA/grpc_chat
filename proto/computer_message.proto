@@ -2,6 +2,8 @@ syntax ="proto3";
 
 package  computer_message;
 
+option go_package = "C:/Code/grpc_chat/proto/computer_message";
+
 message cpu{
     string brand = 1;
     string name = 2;
